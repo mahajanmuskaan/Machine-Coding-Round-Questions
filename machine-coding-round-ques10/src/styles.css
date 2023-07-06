@@ -1,0 +1,56 @@
+.dashboard {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-direction: column;
+}
+
+.cards{
+  display: flex;
+  gap: 0.5rem;
+  flex-direction: column;
+}
+
+.card{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border-radius: 8px;
+  padding: 0.5rem;
+  box-shadow: 0px 2px 4px grey;
+}
+.img img{
+  margin-left: 0.4rem;
+  margin-right: 0.4rem;
+  width: 80px;
+}
+
+.details{
+  display: flex;
+  flex-direction: column;
+  margin-left: 5px;
+  flex: 100%;
+  gap: 1.5rem;
+}
+
+.details .row1, .row2{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.row1 h3{
+  margin-top: 5px;
+}
+.crypto-price,.crypto-percent{
+  margin-right: 5px;
+}
+.row2>p,h2{
+  margin-bottom: 0;
+}
+.row2>p{
+  font-size: 1.2rem;
+}
+.crypto-percent{
+  color: red;
+}

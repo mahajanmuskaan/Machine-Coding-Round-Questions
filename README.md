@@ -18,6 +18,10 @@
 
 9.	Manipulating CSS Classes: Write a JavaScript function that toggles a CSS class on an HTML element when a button is clicked.
 
+10. Build a Crypto Dashboard:
+    UI - https://cryptos-dashboard.netlify.app/
+    API - https://api.coingecko.com/api/v3/coins/markets?vs_currency=inr&order=market_cap_desc&per_page=100&page=1&sparkline=false
+
 
 ### Here are some machine coding round questions for a front-end web developer fresher:
 
