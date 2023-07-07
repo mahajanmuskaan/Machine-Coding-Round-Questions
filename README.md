@@ -22,6 +22,9 @@
     UI - https://cryptos-dashboard.netlify.app/
     API - https://api.coingecko.com/api/v3/coins/markets?vs_currency=inr&order=market_cap_desc&per_page=100&page=1&sparkline=false
 
+11. Star Rating Component:
+UI - https://rating-component-normal.netlify.app/
+
 
 ### Here are some machine coding round questions for a front-end web developer fresher:
 
