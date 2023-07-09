@@ -25,6 +25,8 @@
 11. Star Rating Component:
 UI - https://rating-component-normal.netlify.app/
 
+12. Modal Component:
+UI - https://modal-component-normal.netlify.app/
 
 ### Here are some machine coding round questions for a front-end web developer fresher:
 
