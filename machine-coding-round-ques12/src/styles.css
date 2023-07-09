@@ -1,0 +1,40 @@
+.container,.modal{
+    text-align: center;
+}
+
+#modal-btn{
+    border-radius: 5px;
+    color: white;
+    background-color: rgba(0, 0, 255, 0.76);
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+.modal{
+    border: 1px solid grey;
+    margin: auto;
+    padding: 10px;
+    display: none;
+    max-width: 80%;
+    height: auto;
+}
+
+.modal>.box{
+    padding: 10px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.box>h2{
+    margin: auto;
+    padding: 10px;
+}
+
+.modal>p{
+    padding: 5px;
+    font-size: 1.2rem;
+}
+.close{
+    cursor: pointer;
+}
