@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.counter-field,
+.counter-btn {
+    margin: 5px;
+    padding: 5px;
+}
+
+#increment,
+#decrement {
+    width: 60px;
+    height: 50px;
+    border-radius: 8px;
+    border: none;
+}
+
+#increment {
+    background-color: green;
+}
+
+#decrement {
+    background-color: red;
+}
+
+#reset {
+    background-color: yellow;
+    width: 100px;
+    height: 50px;
+    border-radius: 8px;
+}
