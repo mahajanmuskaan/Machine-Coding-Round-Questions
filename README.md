@@ -28,6 +28,8 @@ UI - https://rating-component-normal.netlify.app/
 12. Modal Component:
 UI - https://modal-component-normal.netlify.app/
 
+13. Counter:
+UI - https://counter-functionality.netlify.app/
 ### Here are some machine coding round questions for a front-end web developer fresher:
 
 1. Create a responsive navigation menu: Write HTML, CSS, and JavaScript code to create a responsive navigation menu that collapses into a hamburger menu on smaller screens.
